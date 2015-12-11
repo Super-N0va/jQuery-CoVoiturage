@@ -29,7 +29,7 @@ $(function(){
              }
              else{
              // sinon affichage d'un message dans la div d'id message  
-                $("#message").html("erreur de login et/ou mdp");
+                $("#message").html("Erreur de login et/ou de mot de passe, vérifiez vos saisies");
              }
     }
     
