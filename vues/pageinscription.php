@@ -30,16 +30,16 @@ include "vues/logo.html";
 			
 			
 		
-		<fieldset data-role="controlgroup" data-type="horizontal">
+		<fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
     		<legend>Indiquez le service :</legend>
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2a" value="">
-    		<label for="radio-choice-h-2a">Recherche</label>
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2b" value="">
-    		<label for="radio-choice-h-2b">Production</label>
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2c" value="">
-    		<label for="radio-choice-h-2c">Commercial</label>
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2d" value="">
-    		<label for="radio-choice-h-2d">Sécurité</label>		
+    		<input type="radio" name="radio-choice-h-6" id="radio-choice-h-6a" value="">
+    		<label for="radio-choice-h-6a">Recherche</label>
+    		<input type="radio" name="radio-choice-h-6" id="radio-choice-h-6b" value="">
+    		<label for="radio-choice-h-6b">Production</label>
+    		<input type="radio" name="radio-choice-h-6" id="radio-choice-h-6c" value="">
+    		<label for="radio-choice-h-6c">Commercial</label>
+    		<input type="radio" name="radio-choice-h-6" id="radio-choice-h-6d" value="">
+    		<label for="radio-choice-h-6d">Sécurité</label>		
 		</fieldset>		
 
 		<p>

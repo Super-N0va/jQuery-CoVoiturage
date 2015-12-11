@@ -8,7 +8,7 @@
     $jour = "";
     $bool=false;
     foreach ($lesOffres as $uneOffre){
-        echo "";
+        
         if($jour!=$uneOffre['jour']){
             $jour=$uneOffre['jour'];
             if($bool==true){
